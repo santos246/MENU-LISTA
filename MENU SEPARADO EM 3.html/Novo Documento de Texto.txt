@@ -1,0 +1,165 @@
+﻿<meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>UNIVERSO ONLINE</title>
+<link rel="sortcut icon" href="https://creazilla-store.fra1.digitaloceanspaces.com/emojis/42143/red-circle-emoji-clipart-md.png" type="image/gif" />
+
+<link href="CSS.css" type="text/css" rel="stylesheet">
+
+</head>
+<body>
+<meta name="author" content="santos.12164@hotmail.com">
+<meta name="description" content="UNIVERSO ONLINE">
+<meta name="keywords" content="UNIVERSO ONLINE,UNIVERSO,ONLINE">
+<center>
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!----🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴---->
+<!---------------------------------------------------------------------->
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-container w3-blue">
+  <h1>W3Schools Demo</h1> 
+  <p>Resize this responsive page!</p> 
+</div>
+
+<div class="w3-row-padding">
+  <div class="w3-third">
+    <h2>London</h2>
+    <p>London is the capital city of England.</p>
+    <p>It is the most populous city in the United Kingdom,
+    with a metropolitan area of over 13 million inhabitants.</p>
+  </div>
+
+  <div class="w3-third">
+    <h2>Paris</h2>
+    <p>Paris is the capital of France.</p> 
+    <p>The Paris area is one of the largest population centers in Europe,
+    with more than 12 million inhabitants.</p>
+  </div>
+
+  <div class="w3-third">
+    <h2>Tokyo</h2>
+    <p>Tokyo is the capital of Japan.</p>
+    <p>It is the center of the Greater Tokyo Area,
+    and the most populous metropolitan area in the world.</p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!---------------------------------------------------------------------->
+<!-- END GRID -->
+</div>
+<div class="content">
+</div>
+<!-- END MAIN -->
+</div>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
+</style>
+</head>
+<body>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<style>
+h3 {
+  color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h2 {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+<!---------------------------PAGINAÇÃO----------------------------->
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.pagination {
+  display: inline-block;
+}
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  font-size: 22px;
+}
+.pagination a.active {
+  background-color: #4CAF50;
+  color: white;
+  border: 1px solid #4CAF50;
+}
+.pagination a:hover:not(.active) {background-color: #ddd;}
+</style>
+</head>
+<body>
+<div class="pagination">
+
+  <a href="1 - Copia (3).html">3</a>
+  <a href="1 - Copia (4).html">4</a>
+  <a href="1 - Copia (5).html" class="active">5</a>
+  <a href="1 - Copia (6).html">6</a>
+  <a href="1 - Copia (7).html">7</a>
+
+</div>
+</body>
+</html>
+<!---------------------------------------------------------------------->
+</center>
+</body>
+</html><span id='FIM'></span>
+
+
+
